@@ -17,7 +17,7 @@ Physicochemical Properties
 * Alcohol
 
 Quality Rating
-* Quality - Score between 0 and 10 (median of at least 3 evaluations made by wine experts)
+* Quality - Score between 0 and 10 (median of at least 3 evaluations made by wine experts) 
 
 ## Writers
 
